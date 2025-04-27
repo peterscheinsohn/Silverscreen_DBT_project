@@ -1,1 +1,2 @@
 # Silverscreen_DBT_project
+Interesting small project which allowed me to understand better how DBT is working on practise. Idea was very simple and straightfoward. Company, which is called "Silverscreen" has acquired several cinemas in New Jersey and want to know how profitable they are. I received five initial sourses as movie_catalogue, rental_cost and  ticket&food selling data from all three cinemas. To get more information, please watch short video about the proejct. 
